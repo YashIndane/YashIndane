@@ -3,8 +3,6 @@
 <!--
 **YashIndane/YashIndane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a webapp for automation of hadoop , docker and AWS using voice commands
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on open source projects
