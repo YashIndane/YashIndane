@@ -1,4 +1,6 @@
 ### Hello, I am Yash Indane
+I always keep myself updated with the latest technologies used in the industry . I am skilled in Python and interested to work in ML , AI , DevOps , MLOps , Big Data , Cloud Technologies etc.
+Open source contributer. 
 
 <!--
 **YashIndane/YashIndane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -7,7 +9,7 @@
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: ...
-- Languages,technologies and tools that i am currently using->
+- Languages , technologies and tools that i am currently using->
 ![](logos.png)
 
 
