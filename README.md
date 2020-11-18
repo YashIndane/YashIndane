@@ -8,6 +8,8 @@
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: ...
 
+![](logos.png)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashIndane&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
