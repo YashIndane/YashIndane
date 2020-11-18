@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I am Yash Indane
 
 <!--
 **YashIndane/YashIndane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
