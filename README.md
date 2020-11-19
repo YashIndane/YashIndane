@@ -8,7 +8,7 @@ Open source contributer.
 - 🔭 I’m currently working on a webapp for automation of hadoop , docker and AWS using voice commands
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: ...
+
 - Languages , technologies and tools that i am currently using->
 ![](logos.png)
 
