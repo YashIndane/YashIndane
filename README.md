@@ -14,6 +14,6 @@ Open source contributer.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashIndane&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YashIndane&show_icons=true&theme=dracula&include_all_commits=true&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashIndane&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YashIndane&show_icons=true&theme=dark&include_all_commits=true&hide=issues)
 
