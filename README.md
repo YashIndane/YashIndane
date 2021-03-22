@@ -2,6 +2,9 @@
 I always keep myself updated with the latest technologies used in the industry . I am skilled in Python and interested to work in ML , AI , DevOps , MLOps , Big Data , Cloud Technologies etc.
 Open source contributer. 
 
+- Ansible Galaxy Profile -> [link](https://galaxy.ansible.com/my-content/namespaces)
+- Docker Hub Profile     -> [link](https://hub.docker.com/repositories)
+
 <!--
 **YashIndane/YashIndane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -16,4 +19,3 @@ Open source contributer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashIndane&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YashIndane&show_icons=true&theme=dark&include_all_commits=true&hide=issues)
-
