@@ -11,7 +11,7 @@ I always keep myself updated with the latest technologies used in the industry .
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on open source projects
 
-- Languages , technologies and tools that i am currently using->
+- Languages , technologies and tools that I know ->
 ![](logos.png)
 
 
