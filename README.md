@@ -1,6 +1,5 @@
 ### Hello, I am Yash Indane
-I always keep myself updated with the latest technologies used in the industry . I am skilled in Python and interested to work in ML , AI , DevOps , MLOps , Big Data , Cloud Technologies etc.
-Open source contributer. 
+I always keep myself updated with the latest technologies used in the industry . My areas of interest are Cloud Computing, Programming, Machine Learning, Artificial Intelligence, DevOps, MlOps, Big Data etc. I contribute on Github as well as I have also contributed various roles on Ansible Galaxy and container images on Docker Hub.
 
 - Ansible Galaxy Profile -> [link](https://galaxy.ansible.com/my-content/namespaces)
 - Docker Hub Profile     -> [link](https://hub.docker.com/repositories)
