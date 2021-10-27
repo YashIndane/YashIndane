@@ -15,6 +15,5 @@ I always keep myself updated with the latest technologies used in the industry .
 - Languages , technologies and tools that I know ->
 ![](logos.png)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashIndane&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YashIndane&show_icons=true&theme=dark&include_all_commits=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashIndane)](https://github.com/anuraghazra/github-readme-stats)
