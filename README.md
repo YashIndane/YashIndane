@@ -4,11 +4,11 @@ I always keep myself updated with the latest technologies used in the industry .
 - [Ansible Galaxy Profile](https://galaxy.ansible.com/my-content/namespaces)
 - [Docker Hub Profile](https://hub.docker.com/repositories)
 - [HackerRank Profile](https://www.hackerrank.com/yashindane46)
+- [DEV Profile](https://dev.to/yashindane)
 
 <!--
 **YashIndane/YashIndane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on a webapp for automation of hadoop , docker and AWS using voice commands
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on open source projects
 
