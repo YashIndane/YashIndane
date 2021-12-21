@@ -6,6 +6,8 @@ I always keep myself updated with the latest technologies used in the industry .
 - [HackerRank Profile](https://www.hackerrank.com/yashindane46)
 - [DEV Profile](https://dev.to/yashindane)
 
+![](https://www.codewars.com/users/Yash%20Indane/badges/small)
+
 <!--
 **YashIndane/YashIndane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
