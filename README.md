@@ -5,6 +5,7 @@ I always keep myself updated with the latest technologies used in the industry .
 - [Docker Hub Profile](https://hub.docker.com/repositories)
 - [HackerRank Profile](https://www.hackerrank.com/yashindane46)
 - [DEV Profile](https://dev.to/yashindane)
+- [PyPi Profile](https://pypi.org/user/yashindane/)
 
 ![](https://www.codewars.com/users/Yash%20Indane/badges/small)
 
