@@ -16,7 +16,8 @@ I always keep myself updated with the latest technologies used in the industry .
 - 👯 I’m looking to collaborate on open source projects
 
 - Languages , technologies and tools that I know ->
-![github-logos](https://user-images.githubusercontent.com/53041219/207029393-0fd58452-6df2-4418-b3f0-00b9e3f3c021.png)
+![github-logos](https://user-images.githubusercontent.com/53041219/213360896-79c5060c-e881-47b2-b889-c0f838426d86.png)
+
 
 [![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=YashIndane&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=YashIndane&show_icons=true&theme=dark&include_all_commits=true&hide=issues&line_height=48)
