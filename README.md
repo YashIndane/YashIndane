@@ -19,5 +19,5 @@ I always keep myself updated with the latest technologies used in the industry .
 ![github-logos](https://user-images.githubusercontent.com/53041219/213360896-79c5060c-e881-47b2-b889-c0f838426d86.png)
 
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=YashIndane&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=YashIndane&show_icons=true&theme=dark&include_all_commits=true&hide=issues&line_height=48)
+[![Top Langs](https://bellomia-readme-stats.vercel.app/api/top-langs/?username=YashIndane&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://bellomia-readme-stats.vercel.app/api?username=YashIndane&show_icons=true&theme=dark&include_all_commits=true&hide=issues&line_height=48)
