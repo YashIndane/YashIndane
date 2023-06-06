@@ -18,7 +18,7 @@ I always keep myself updated with the latest technologies used in the industry .
 - 🌱 I’m currently polishing my Kubernetes skills
 - 👯 I’m looking to collaborate on open source projects
 
-**Languages , Technologies & Tools that I play with -**
+**Languages, Technologies & Tools that I play with -**
 ![github-logos](https://user-images.githubusercontent.com/53041219/213360896-79c5060c-e881-47b2-b889-c0f838426d86.png)
 
 
