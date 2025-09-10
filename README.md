@@ -16,3 +16,4 @@ I always keep myself updated with the latest technologies used in the industry .
 **YashIndane/YashIndane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 👯 I’m looking to collaborate on open source projects
+- Currently I am learning Python Agentic AI Frameworks
